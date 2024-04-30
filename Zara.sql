@@ -1,4 +1,3 @@
-use diwali;
 select * from zara;
 
 alter table zara
